@@ -14,6 +14,5 @@
       "js": ["content-script.js"]
     }
   ],
-  "web_accessible_resources": ["embeded-script.js"],
   "permissions": ["<all_urls>"]
 }
